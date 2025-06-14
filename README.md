@@ -47,10 +47,9 @@ Targeting insights like:
 - **Technology** contributed to 46% of profits
 - Peak sales in **March & April 2014**, lowest in **December**
 
-![Sales Dashboard](https://user-images.githubusercontent.com/103464406/218605834-500b9b47-8873-4b4a-94ae-ed86486e3194.png)
+![Sales Dashboard](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/13fac1a59631984f0a1e565fe8b3498f5f0b7589/SALES%20ANALYSIS.png)
 
-🔍 Filtered view: 2014 | Category: Technology | Priority: Medium  
-![Sales Filtered](https://user-images.githubusercontent.com/103464406/218607224-3a1bf219-c16f-44cb-bb8e-4e7b0ee22838.png)
+
 
 ---
 
@@ -62,12 +61,11 @@ Targeting insights like:
 - **Office Supplies** had highest quantity sold
 - **Tables** had 28% average discount in 2014
 
-![Product Dashboard](https://user-images.githubusercontent.com/103464406/218607609-fcf817e6-17a1-4b03-af50-00bbe806ad79.png)
+![Product Dashboard](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/13fac1a59631984f0a1e565fe8b3498f5f0b7589/PRODUCT%20ANALYSIS.png)
 
-🔍 Filtered view: 2014 | Market: US  
-![Product Filtered](https://user-images.githubusercontent.com/103464406/218608118-393e40ea-9f77-46f2-9826-82f7be538d1d.png)
 
----
+
+
 
 ### 🚚 Shipping Analysis
 
@@ -78,7 +76,7 @@ Targeting insights like:
 - **Same Day** is least used
 - **APAC** has the highest shipping cost
 
-![Shipping Dashboard](https://user-images.githubusercontent.com/103464406/218608777-892f74b8-ee20-4c22-8c2f-953638930e54.png)
+![Shipping Dashboard](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/13fac1a59631984f0a1e565fe8b3498f5f0b7589/SHIPPING%20DASHBOARD.png)
 
 ---
 
