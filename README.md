@@ -31,7 +31,6 @@ Targeting insights like:
 - Sales period: **2011 to 2014**
 - Includes product categories, shipping mode, customer segment, and geographical data
 
-![Dataset Preview](https://user-images.githubusercontent.com/103464406/218605670-7fe2f56e-7cc7-433e-9a09-fd0b655195aa.png)
 
 ---
 
