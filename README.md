@@ -108,5 +108,5 @@ This project is for learning and demonstration purposes only. Dataset credit to 
 ## 💡 Author
 
 Made with ❤️ by goutham 
-Add me on [LinkedIn](www.linkedin.com/in/goutham-jammi-514a53175) | ⭐ Star this repo if you found it helpful!
+| ⭐ Star this repo if you found it helpful!
 
