@@ -1,112 +1,117 @@
-# 📊 dashboards_stores_powerbi
-
-Unlock powerful insights into sales, product performance, and shipping trends using interactive Power BI dashboards. This project uses the Superstore dataset to build a professional dashboard for key decision-making.
 
 ---
 
-## 🧠 Problem Statement
+# 📊 Retail Performance Dashboard (Power BI)
 
-Create dynamic dashboards for:
-- **Sales Analysis**
-- **Product Analysis**
-- **Shipping Analysis**
-
-Targeting insights like:
-- Revenue trends 📈
-- High/low performing segments 🏷️
-- Regional shipping insights 🚚
+This project demonstrates how to visualize retail business operations using **Power BI**. Using a modified dataset from a fictional store, this dashboard suite helps monitor **sales**, **products**, and **delivery performance** across several years.
 
 ---
 
-## 🛠️ Tools Used
+## 🔍 Objectives
 
-- Microsoft **Power BI**
-- Superstore dataset from **Kaggle**  
-  🔗 [Dataset Link](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
+The dashboards were built to uncover:
 
----
-
-## 📂 Dataset Info
-
-- Sales period: **2011 to 2014**
-- Includes product categories, shipping mode, customer segment, and geographical data
-
+* 📈 Sales outcomes over time
+* 📦 Trends across product lines
+* 🚚 Distribution patterns and cost efficiency
 
 ---
 
-## 📈 Dashboards Overview
+## 🧰 Tools & Stack
 
-### 🔹 Sales Analysis
-
-- Track total **sales** and **profit**
-- Compare sales by year and quarter
-- Drill down by category and priority
-
-📌 Insights:
-- $3M in total sales and $400.9K in profits (2011–2014)
-- **Technology** contributed to 46% of profits
-- Peak sales in **March & April 2014**, lowest in **December**
-
-![Sales Dashboard](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/13fac1a59631984f0a1e565fe8b3498f5f0b7589/SALES%20ANALYSIS.png)
-
-
+* **Microsoft Power BI**
+* Cleaned e-commerce dataset (based on historical retail records)
 
 ---
 
-### 📦 Product Analysis
+## 📁 Dataset Details
 
-- Explore **product category**, **quantity**, and **discount trends**
+Time Frame: 2011–2014
+Includes fields for:
 
-📌 Insights:
-- **Office Supplies** had highest quantity sold
-- **Tables** had 28% average discount in 2014
-
-![Product Dashboard](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/13fac1a59631984f0a1e565fe8b3498f5f0b7589/PRODUCT%20ANALYSIS.png)
-
-
-
-
-
-### 🚚 Shipping Analysis
-
-- Analyze shipping mode and regional shipping cost
-
-📌 Insights:
-- **Standard Class** used in 53% of orders
-- **Same Day** is least used
-- **APAC** has the highest shipping cost
-
-![Shipping Dashboard](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/13fac1a59631984f0a1e565fe8b3498f5f0b7589/SHIPPING%20DASHBOARD.png)
+* Product types and segments
+* Order dates and delivery modes
+* Revenue, cost, and discounts
+* Customer regions and categories
 
 ---
 
-## ✅ Features
+## 📊 Dashboards Overview
 
-- 📌 Interactive filters
-- 📅 Time-series analysis
-- 🌍 Regional insights
-- 📦 Category drill-down
-- 📊 KPI cards & comparison metrics
+### 🔹 Sales Overview
 
----
+* Visualize overall sales and profit
+* Slice by category, year, and urgency
+* Analyze seasonal trends
 
-## 🚀 How to Use
+🧠 Notable Points:
 
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
-2. Open the `.pbix` file in Power BI
-3. Refresh data if prompted
-4. Explore dashboards with slicers and filters
+* Over \$3M generated during the 3-year period
+* Tech segment led profit margin (\~46%)
+* Best results in Spring 2014
 
----
-
-## 📎 License
-
-This project is for learning and demonstration purposes only. Dataset credit to original uploader on Kaggle.
+![Sales Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/sales_insights_retail.png)
 
 ---
 
-## 💡 Author
+### 📦 Product Performance
 
-Made with ❤️ by goutham 
-| ⭐ Star this repo if you found it helpful!
+* Compare item popularity
+* Track discounting trends
+* Understand category-wise movement
+
+🧠 Highlights:
+
+* Office items topped in quantity
+* Certain furniture items had steep discounts in 2014
+
+![Product Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/products_breakdown_retail.png)
+
+---
+
+### 🚚 Shipping & Delivery
+
+* Monitor shipping mode preferences
+* Regional differences in logistics cost
+
+🧠 Highlights:
+
+* Standard delivery was most common
+* Express options rarely used
+* Asia-Pacific region had higher shipping expenses
+
+![Shipping Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/shipping_trends_retail.png)
+
+---
+
+## ✨ Key Features
+
+* Multi-layered filters (by year, region, product type)
+* Clean KPI visuals for quick reading
+* Deep-dives into segment-level data
+* Scrollable and slicer-enabled navigation
+
+---
+
+## ▶️ How to Explore
+
+1. Open project file in **Power BI Desktop**
+2. Import data or refresh source
+3. Interact with visual elements using slicers
+
+---
+
+## 🔖 License
+
+This dashboard is built for learning and presentation purposes only.
+
+---
+
+## 👨‍💻 Created By
+
+Crafted with ❤️ by **Goutham**
+⭐ Leave a star on the repo if you find it helpful!
+
+---
+
 
