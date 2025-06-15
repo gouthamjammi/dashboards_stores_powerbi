@@ -65,7 +65,7 @@ Includes fields for:
 * Office items topped in quantity
 * Certain furniture items had steep discounts in 2014
 
-![Product Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/products_breakdown_retail.png)
+![Product Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/PRODUCT%20ANALYSIS.png)
 
 ---
 
