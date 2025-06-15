@@ -50,7 +50,7 @@ Includes fields for:
 * Tech segment led profit margin (\~46%)
 * Best results in Spring 2014
 
-![Sales Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/sales_insights_retail.png)
+![Sales Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/SALES%20ANALYSIS.png)
 
 ---
 
