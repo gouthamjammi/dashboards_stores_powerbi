@@ -80,7 +80,7 @@ Includes fields for:
 * Express options rarely used
 * Asia-Pacific region had higher shipping expenses
 
-![Shipping Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/shipping_trends_retail.png)
+![Shipping Overview](https://github.com/gouthamjammi/dashboards_stores_powerbi/blob/main/SHIPPING%20DASHBOARD.png)
 
 ---
 
